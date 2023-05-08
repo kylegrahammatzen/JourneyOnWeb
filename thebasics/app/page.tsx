@@ -3,6 +3,6 @@ export default function HomePage() {
         <div>
             <h1>Home Page</h1>
             <p>Some content</p>
-        </div>
+        </div> 
     );
 }

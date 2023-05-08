@@ -9,7 +9,7 @@ export default function RootLayout({
     <html>
       <head></head>
       <body>
-        <nav>Rose Pine
+        <nav>
             <Link href="/">
                 Home
             </Link>
